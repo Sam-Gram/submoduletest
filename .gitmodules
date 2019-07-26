@@ -1,0 +1,4 @@
+[submodule "submodule"]
+	path = submodule
+	url = git@github.com:Sam-Gram/submodule.git
+	branch = dev
